@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Caos_Labs?style=social)](https://twitter.com/Caos_Labs)
 
-CaosAgents is a library developed by Fetch.ai that allows for creating autonomous AI agents in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
+CaosAgents is a library developed using Fetch.ai that allows for creating autonomous pumpfun trading agent in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
 
 ## 🚀 Features
 
