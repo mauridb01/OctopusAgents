@@ -4,12 +4,6 @@
 
 CaosAgents is a library developed using Fetch.ai that allows for creating autonomous pumpfun trading agent in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
 
-## 🚀 Features
-
-- 🤖 **Easy creation and management**: Create any type of agent you can think of and implement it in code.
-- 🔗 **Connected**: On startup, each agent automatically joins the fast growing network of CaosAgents by registering on the Almanac, a smart contract deployed on the Fetch.ai blockchain.
-- 🔒 **Secure**: CaosAgent messages and wallets are cryptographically secured, so their identities and assets are protected.
-
 ## ⚡ Quickstart
 
 ### Installation
