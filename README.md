@@ -1,25 +1,25 @@
-# CaosAgents: AI Agent Framework
+# OctopusAgents: AI Agent Framework
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Caos_Labs?style=social)](https://twitter.com/Caos_Labs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Octopus_Labs?style=social)](https://twitter.com/Octopus_Labs)
 
-CaosAgents is a library developed using Fetch.ai that allows for creating autonomous pumpfun trading agent in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
+OctopusAgents is a library developed using Fetch.ai that allows for creating autonomous pumpfun trading agent in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
 
 ## ⚡ Quickstart
 
 ### Installation
 
-Get started with CaosAgents by installing it for Python 3.9 to 3.12:
+Get started with OctopusAgents by installing it for Python 3.9 to 3.12:
 
-    pip install CaosAgents
+    pip install OctopusAgents
 
 ### Running a Demo
 
 #### Creating an Agent
 
-Build your first CaosAgent using the following script:
+Build your first OctopusAgent using the following script:
 
 ```python3
-from CaosAgents import Agent, Context
+from OctopusAgents import Agent, Context
 alice = Agent(name="alice", seed="alice recovery phrase")
 ```
 
@@ -43,7 +43,7 @@ if __name__ == "__main__":
 So far, your code should look like this:
 
 ```python3
-from CaosAgents import Agent, Context
+from OctopusAgents import Agent, Context
 
 alice = Agent(name="alice", seed="alice recovery phrase")
 
@@ -68,13 +68,13 @@ You should see the results in your terminal.
 Please see the [official documentation](https://fetch.ai/docs) for full setup instructions and advanced features.
 
 - [👋 Introduction](https://fetch.ai/docs/concepts/agents/agents)
-- [💻 Installation](https://fetch.ai/docs/guides/agents/installing-CaosAgent)
+- [💻 Installation](https://fetch.ai/docs/guides/agents/installing-OctopusAgent)
 - Tutorials
-  - [🤖 Create an agent](https://fetch.ai/docs/guides/agents/create-a-CaosAgent)
+  - [🤖 Create an agent](https://fetch.ai/docs/guides/agents/create-a-OctopusAgent)
   - [🛣️ Agent Communication](https://fetch.ai/docs/guides/agents/communicating-with-other-agents)
   - [🍽️ Restaurant Booking Demo](https://fetch.ai/docs/guides/agents/booking-demo)
 - Key Concepts:
-  - [📍Addresses](https://fetch.ai/docs/guides/agents/getting-CaosAgent-address)
+  - [📍Addresses](https://fetch.ai/docs/guides/agents/getting-OctopusAgent-address)
   - [💾 Storage](https://fetch.ai/docs/guides/agents/storage-function)
   - [📝 Interval Tasks](https://fetch.ai/docs/guides/agents/interval-task)
   - [🌐 Agent Broadcast](https://fetch.ai/docs/guides/agents/broadcast)
@@ -82,32 +82,32 @@ Please see the [official documentation](https://fetch.ai/docs) for full setup in
 
 ## 🌱 Examples
 
-The [`examples`](https://github.com/fetchai/CaosAgents/tree/main/python/examples) folder contains several examples of how to create and run various types of agents.
+The [`examples`](https://github.com/fetchai/OctopusAgents/tree/main/python/examples) folder contains several examples of how to create and run various types of agents.
 
 ## 🌲 Integrations
 
-The [`integrations`](https://github.com/fetchai/CaosAgents/tree/main/integrations) folder contains examples that provide a more in depth use of the CaosAgents library.
+The [`integrations`](https://github.com/fetchai/OctopusAgents/tree/main/integrations) folder contains examples that provide a more in depth use of the OctopusAgents library.
 
 ## Python Library
 
-Go to the [`python`](https://github.com/fetchai/CaosAgents/tree/main/python) folder for details on the Python CaosAgents library.
+Go to the [`python`](https://github.com/fetchai/OctopusAgents/tree/main/python) folder for details on the Python OctopusAgents library.
 
 ## ✨ Contributing
 
-All contributions are welcome! Remember, contribution includes not only code, but any help with docs or issues raised by other developers. See our [contribution guidelines](https://github.com/fetchai/CaosAgents/blob/main/CONTRIBUTING.md) for more details.
+All contributions are welcome! Remember, contribution includes not only code, but any help with docs or issues raised by other developers. See our [contribution guidelines](https://github.com/fetchai/OctopusAgents/blob/main/CONTRIBUTING.md) for more details.
 
 ### 📄 Development Guidelines
 
-Read our [development guidelines](https://github.com/fetchai/CaosAgents/blob/main/DEVELOPING.md) to learn some useful tips related to development.
+Read our [development guidelines](https://github.com/fetchai/OctopusAgents/blob/main/DEVELOPING.md) to learn some useful tips related to development.
 
 ### ❓ Issues, Questions, and Discussions
 
-We use [GitHub Issues](https://github.com/fetchai/CaosAgents/issues) for tracking requests and bugs, and [GitHub Discussions](https://github.com/fetchai/CaosAgents/discussions) for general questions and discussion.
+We use [GitHub Issues](https://github.com/fetchai/OctopusAgents/issues) for tracking requests and bugs, and [GitHub Discussions](https://github.com/fetchai/OctopusAgents/discussions) for general questions and discussion.
 
 ## 🛡 Disclaimer
 
-This project, CaosAgents, is provided "as-is" without any warranty, express or implied. By using this software, you agree to assume all risks associated with its use, including but not limited to unexpected behavior, data loss, or any other issues that may arise. The developers and contributors of this project do not accept any responsibility or liability for any losses, damages, or other consequences that may occur as a result of using this software.
+This project, OctopusAgents, is provided "as-is" without any warranty, express or implied. By using this software, you agree to assume all risks associated with its use, including but not limited to unexpected behavior, data loss, or any other issues that may arise. The developers and contributors of this project do not accept any responsibility or liability for any losses, damages, or other consequences that may occur as a result of using this software.
 
 ## License
 
-The CaosAgents project is licensed under [Apache License 2.0](https://github.com/fetchai/CaosAgents/blob/main/LICENSE).
+The OctopusAgents project is licensed under [Apache License 2.0](https://github.com/fetchai/OctopusAgents/blob/main/LICENSE).
