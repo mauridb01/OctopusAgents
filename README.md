@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Octopus_Labs?style=social)](https://twitter.com/Octopus_Labs)
 
-OctopusAgents is a library developed using Fetch.ai that allows for creating autonomous pumpfun trading agent in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
+OctopusAgents is a library developed using Fetch.ai that allows for creating autonomous twitter agent in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
 
 ## ⚡ Quickstart
 
