@@ -1,6 +1,6 @@
 # OctopusAgents: AI Agent Framework
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/OctopusAgentFW?style=social)](https://twitter.com/OctopusAgentFW)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mauridb?style=social)](https://twitter.com/mauridb)
 
 CA:
 
