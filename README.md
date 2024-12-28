@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OctopusAgentFW?style=social)](https://twitter.com/OctopusAgentFW)
 
-CA: 9EyTdNgesL9zXZ8z7WT5o2cXV976jgQ6Bxzdh77Epump
+CA:
 
 OctopusAgents is a library developed using Fetch.ai that allows for creating autonomous twitter agent in Python. With simple and expressive decorators, you can have an agent that performs various tasks on a schedule or takes action on various events.
 
